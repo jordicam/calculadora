@@ -16,5 +16,5 @@ def main():
 
 ####EJECUTO
 if __name__ == "__main__":
-    main()
+    value = main()
 
